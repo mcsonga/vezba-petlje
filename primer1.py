@@ -1,6 +1,6 @@
 import time
 pocetna_pozicija = 0
-cilj = 50
+cilj = 100
 trenutna_pozicija = 0
 brzina = 10
 
